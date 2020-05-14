@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Keep Calm" # "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Yuan Wang"
 description              : &description "personal description"
@@ -85,7 +85,7 @@ author:
   bio              : "unimportant unnamed"
   location         : "Halifax, Canada"
   employer         : "Dalhousie University"
-  pubmed           : ""
+  pubmed           : "..."
   googlescholar    : "https://scholar.google.ca/citations?user=aCwn3k0AAAAJ&hl=en"
   email            : "yuan.wang@dal.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
