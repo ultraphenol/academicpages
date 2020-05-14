@@ -9,9 +9,9 @@
 locale                   : "en-US"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Yuan Wang"
 description              : &description "personal description"
-url                      : 'http://localhost:4000' # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Y. Wang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  bio              : "unimportant unnamed"
+  location         : "Halifax, Canada"
+  employer         : "Dalhousie University"
+  pubmed           : ""
+  googlescholar    : "https://scholar.google.ca/citations?user=aCwn3k0AAAAJ&hl=en"
+  email            : "yuan.wang@dal.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : ""
   google_plus      :
   keybase          :
   instagram        :
